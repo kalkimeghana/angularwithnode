@@ -1,0 +1,23 @@
+.learning:hover,.project:hover,.querys:hover{
+  background-color: white;
+  color:#2E8B57;
+}
+.learning,.project,.querys{
+  padding: 10px 24px;
+  background:transparent;
+  font-size: 1.5em;
+  font-weight: bold;
+  border: 3px solid white;
+  color:white;
+  border-radius: 8px;
+}
+
+.dwnarwIcn{
+  position: relative;
+  left:1270px;
+  right:0px;
+  color:#2E8B57;
+  font-size: 60px;
+  bottom: 25px;
+  box-shadow: 10px 10px 5px grey;
+}
